@@ -16,12 +16,7 @@
 5. Perform spectral analysis on these spike triggered averages to identify variations in signal composition 
 
 ### Interpret results
-Journal publication currently being prepared for Society of Neuroscience
-
-Data can be accessed in the form of .mat files by clicking the link below: 
-
-[**Dakota's DBS Data Link**](https://1drv.ms/u/s!Ajs685RmLE0XhDvQmE_BxL_BCtV3?e=2SvAeO)
-
+- Journal publication currently being prepared for Society of Neuroscience
 
 ## Figures:
 
